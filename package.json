@@ -1,0 +1,27 @@
+{
+  "name": "DevourBurger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejoc1103/DevourBurger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejoc1103/DevourBurger/issues"
+  },
+  "homepage": "https://github.com/ejoc1103/DevourBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express-handlebars": "^3.0.0",
+    "heroku": "^0.2.0",
+    "method-override": "^2.3.10"
+  }
+}
